@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://kaskow.com/remote-desktop.html"><img src="https://kaskow.com/logo.svg" width="64" alt="KASKOW"></a>
+  <a href="https://kaskow.com/p/remote-desktop/"><img src="https://kaskow.com/logo.svg" width="64" alt="KASKOW"></a>
 </p>
 
 <h1 align="center">KASKOW Remote</h1>
 
 <p align="center">
   Buka dan pakai komputer Anda dari mana saja — dari PC lain, browser, atau HP.<br>
-  <a href="https://kaskow.com/remote-desktop.html"><b>kaskow.com/remote-desktop.html</b></a>
+  <a href="https://kaskow.com/p/remote-desktop/"><b>kaskow.com/p/remote-desktop/</b></a>
 </p>
 
 ---
@@ -17,7 +17,7 @@ Kode sumber aplikasi bersifat privat.
 ## Unduh
 
 - **Versi terbaru:** halaman [Releases](https://github.com/appkaskow/kaskow-remote/releases/latest)
-  atau langsung dari [kaskow.com/remote-desktop.html](https://kaskow.com/remote-desktop.html).
+  atau langsung dari [kaskow.com/p/remote-desktop/](https://kaskow.com/p/remote-desktop/).
 - Sistem: Windows 10 atau 11 (64-bit).
 - Pemasangan tidak butuh hak admin. Aplikasi memperbarui dirinya sendiri setelah terpasang.
 
