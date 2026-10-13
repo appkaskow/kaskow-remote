@@ -19,7 +19,7 @@ Kode sumber aplikasi bersifat privat.
 - **Versi terbaru:** halaman [Releases](https://github.com/appkaskow/kaskow-remote/releases/latest)
   atau langsung dari [kaskow.com/p/remote-desktop/](https://kaskow.com/p/remote-desktop/).
 - Sistem: Windows 10 atau 11 (64-bit).
-- Pemasangan tidak butuh hak admin. Aplikasi memperbarui dirinya sendiri setelah terpasang.
+- Pemasangan tidak butuh hak admin. Saat versi baru tersedia, aplikasi menampilkan pemberitahuan — klik **Perbarui sekarang** untuk memasangnya.
 
 Setiap rilis mencantumkan SHA-256 file installer. Pastikan nilainya sama sebelum menjalankan file
 yang Anda dapat dari tempat lain.
